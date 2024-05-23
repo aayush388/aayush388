@@ -77,7 +77,7 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 <br>
 
 
-![snake gif](https://github.com/aayush388/aayush388/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/Sachintha-Samarathunga/Sachintha-Samarathunga/blob/output/github-contribution-grid-snake-dark.svg)
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=Thanks+For+Visiting+Enjoy+Your+Day+~!;" alt="mystreak"/>
